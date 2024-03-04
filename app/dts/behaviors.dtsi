@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2024 The ZMK Contributors
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <behaviors/key_press.dtsi>
 #include <behaviors/key_toggle.dtsi>
 #include <behaviors/transparent.dtsi>
